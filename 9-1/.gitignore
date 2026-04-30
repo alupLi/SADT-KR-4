@@ -1,0 +1,17 @@
+venv/
+env/
+ENV/
+.env
+
+*.db
+*.sqlite
+*.sqlite3
+
+__pycache__/
+
+alembic/versions/__pycache__/
+
+.DS_Store
+Thumbs.db
+
+*.log
